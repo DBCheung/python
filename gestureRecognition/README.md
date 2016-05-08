@@ -1,2 +1,2 @@
 # python
-python workspace
+gesture recognition in python
